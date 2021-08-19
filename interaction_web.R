@@ -1,6 +1,7 @@
 #lu.wang@noaa.gov
 #August 2021
 #The following was used to create an interaction web in R for the FFO annual report
+#The resulting graph can be sent to comms for clean up
 
 setwd("C:/Users/lu.wang/Desktop) #change to appropriate working directory
 library(igraph);library(readxl)
