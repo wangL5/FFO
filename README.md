@@ -4,7 +4,7 @@
 
 This can be used to create the interaction web of institutions for the annual FFO report.
 
-The interaction web is used to depict collaboration networks across the science community. The directionality of the arrows indicate the directionality of the collaboration from awarded institutions to collaborating institutions. Each point in the graph represents on institution, color-coded by sector type. Each point may represent multiple projects if multiple awards were given to principal investigators from that same institution with the years included in the final report. Names of institutions are not included in the final graph. See [here](https://oeab.noaa.gov/wp-content/uploads/2021/04/ffo-report-2016-2020.pdf) for an example.
+The interaction web is used to depict collaboration networks across the science community. The directionality of the arrows indicate the directionality of the collaboration from awarded institutions to collaborating institutions. Each point in the graph represents one institution, color-coded by sector type. Each point may represent multiple projects if multiple awards were given to principal investigators from that same institution with the years included in the final report. Names of institutions are not included in the final graph. See [here](https://oeab.noaa.gov/wp-content/uploads/2021/04/ffo-report-2016-2020.pdf) for an example.
 
 
 ### Nodes
